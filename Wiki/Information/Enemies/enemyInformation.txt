@@ -1,0 +1,72 @@
+Name: Red Smasher
+Description: A rare type of over-sized beetle, often found in green grasslands and forests.
+When threatened it will clap its wings before charging at its prey before charging at them with sharp antennas.
+Health: 100
+Max Damage: 20
+Rarity: Rare
+Sell Amount: 35
+
+------------------------------------------
+
+Name: Blue Smasher
+Description: Before an unknown event spread them apart, they hunted in huge packs together, attacking with utmost brute force. 
+Their strategy is the exact same as the Red Smashers’.
+Health: 100
+Max Damage: 20
+Rarity: Rare
+Sell Amount: 35
+
+------------------------------------------
+
+Name: Grey Smasher
+Description: These are the most deadly types of smasher. 
+They can spread their scales out as wings and their antennas are spiked with dagger-like spikes. 
+Their weight is similar to an elephants, yet on a short distance they travel as fast as jaguar
+Health: 100
+Max Damage: 20
+Rarity: Rare
+Sell Amount: 35
+
+------------------------------------------
+
+Name: Shadow Bat
+Description: Evolved from the average horseshoe bat, the Shadow Bat became corrupted as an evil was stirred. 
+It cannot see during the day, so you will find it in random places throughout the world. 
+Its wings are strong and a single blow from them can be fatal. Be aware! 
+Health: 75
+Max Damage: 15
+Rarity: Common
+Sell Amount: 25
+
+------------------------------------------
+
+Name: White Phantom
+Description: Their skin is slimy and slightly transparent, yet it is still strong. 
+It can let out a howl which disorentates the enemy before they have a chance to attack, though most weapons cannot penetrate its luminous skin. 
+At night it will glow bright as a warning to attackers.
+Health: 125
+Max Damage: 25
+Rarity: Epic
+Sell Amount: 65
+
+------------------------------------------
+
+Name: Giblin
+Descriptions: This creature was once human, but was poisoned by the hatred of the Master Log. 
+It fights with its fists, but even its glance can give that person the Master Log's curse.
+They wear clothes made of the unusually thick Mactroo Leaf.
+If your equipped you should easily be able to defeat this monster.
+Health: 40
+Max Damage: 10
+Rarity: Common
+Sell Amount: 15
+
+------------------------------------------
+
+Name: Log
+Descriptions: A common enmey found in forest, cliff, flower field and grasslands biomes.
+These enemies are an easy fight, they compensate for by only dropping a small amount of coins.
+Health: 20
+Max Damage: 1
+Rarity: Common
+Coins Dropped: 3
