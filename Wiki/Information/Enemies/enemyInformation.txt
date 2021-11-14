@@ -70,3 +70,23 @@ Health: 20
 Max Damage: 1
 Rarity: Common
 Coins Dropped: 3
+
+------------------------------------------
+
+Name: Hogface
+Descriptions: They are often found scavaging near trees and other objects. They may look
+rather innocent but they actually pack a punch.
+Health: 50
+Max Damage: 10
+Rarity: Common
+Coins Dropped: 20
+
+------------------------------------------
+
+Name: Master Giblin
+Descriptions: This creature was formed when Loggy was trying to form the perfect master log.
+You may mistake Master Giblins as normal Giblin but be carefull they are much deadlier.
+Health: 100
+Max Damage: 20
+Rarity: Epic
+Coins Dropped: 50
